@@ -1,5 +1,12 @@
-### Hi there 👋
-
+## Hi there 👋
+### About me:
+My name is Ksenia Krupina and I'm junior Frontend Software Developer
+### About my tools:
+* TypeScript
+* JavaScript
+* React
+* CSS
+* HTML
 <!--
 **kkrupinaa/kkrupinaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
